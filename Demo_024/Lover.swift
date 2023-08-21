@@ -11,6 +11,6 @@ struct Lover {
     let name: String
     let intro: String
     let imageName: String
-    
+
 }
 
